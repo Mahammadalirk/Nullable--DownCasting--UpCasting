@@ -1,0 +1,14 @@
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\obj\Debug\netcoreapp3.1\Downcast.csproj.AssemblyReference.cache
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\obj\Debug\netcoreapp3.1\Downcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\obj\Debug\netcoreapp3.1\Downcast.AssemblyInfoInputs.cache
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\obj\Debug\netcoreapp3.1\Downcast.AssemblyInfo.cs
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\obj\Debug\netcoreapp3.1\Downcast.csproj.CoreCompileInputs.cache
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\bin\Debug\netcoreapp3.1\Downcast.exe
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\bin\Debug\netcoreapp3.1\Downcast.deps.json
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\bin\Debug\netcoreapp3.1\Downcast.runtimeconfig.json
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\bin\Debug\netcoreapp3.1\Downcast.runtimeconfig.dev.json
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\bin\Debug\netcoreapp3.1\Downcast.dll
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\bin\Debug\netcoreapp3.1\Downcast.pdb
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\obj\Debug\netcoreapp3.1\Downcast.dll
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\obj\Debug\netcoreapp3.1\Downcast.pdb
+C:\Users\mkeri\OneDrive\Desktop\Downcasting\Downcast\Downcast\obj\Debug\netcoreapp3.1\Downcast.genruntimeconfig.cache
